@@ -3,7 +3,7 @@
 Elasticsearch is
 
 - written in Java and is built on top of Apache Lucene.
-- easy to use, distributed by nature, and highly scalable.
+- easy to use, distributed by nature, and highly scalable .
 
 ## How does it work?
 
